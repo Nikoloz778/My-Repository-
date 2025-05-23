@@ -6,6 +6,5 @@ for x in reversed(range(1,11,1)):
 
 
 for i in range(1,20,2):
-    if x == 10:
+    if i == 10:
         break
-print("succes")
