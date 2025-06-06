@@ -2,7 +2,7 @@ fruits=["apple","xxbb", "banana","orange","coconat","orange","orange"]
 
 # fruits.append("saxeli")
 # fruits.remove("coconat")
-# fruits.sort()
+# fruit.sort()
 # fruits.reverse()
 # fruits.clear()
 # print(fruits[0])
@@ -13,4 +13,4 @@ fruits=["apple","xxbb", "banana","orange","coconat","orange","orange"]
 
 
 
-# print(fruits)
+#print(fruits)
